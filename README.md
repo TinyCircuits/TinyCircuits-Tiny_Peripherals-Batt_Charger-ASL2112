@@ -1,15 +1,15 @@
 # TinyCircuits Tiny Peripheral Battery Charger
-# ASL2112 Rev1
+# ASL2112 Rev2
 
-These are the design files for the TinyCircuits ASL2112 Rev 1 PCB.  This is a Tiny peripheral board that has a Lithium battery charger and JST SH connector.
+The design files are located under design_files/ for the TinyCircuits ASL2112 Rev 2 PCB.  This is a Tiny peripheral board that has a Lithium battery charger and JST SH connector.
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tinycircuits.com/collections/tinylily/products/tiny-battery-charger
+For more infomation on this, check out the product page at TinyCircuits.com: https://tinycircuits.com/collections/accessories/products/tiny-battery-charger
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
